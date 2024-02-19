@@ -1,0 +1,53 @@
+body .apoorva{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
+   
+}
+body .btn{
+    font-size: large;
+    font-weight: bolder;
+    height: 500%;
+    width: 43%;
+    margin-left: 30%;
+    border-radius: 5px;
+    border-color: black;
+    
+      
+
+}
+body h1{
+    margin-bottom: 10px;
+}
+body input{
+   margin-left:-9px;
+   margin-top: 17px; 
+   border-radius: 7px;
+   border-color: aliceblue;
+   padding: 4%;
+   width: 100%;
+
+  }
+body{
+    background-image: url('back2.png') ;
+    background-size:cover;
+    background-position: center;
+}
+body .first{
+    margin-top: 2%;
+background-color: rgb(50, 108, 160);
+font-size: 17px;
+font-weight: bold;
+color: aliceblue;
+margin-left: -7px;
+margin-right: -7px;
+margin-top: -10px;
+}
+body .second{
+    text-align: center;
+    font-size:20px;
+}
